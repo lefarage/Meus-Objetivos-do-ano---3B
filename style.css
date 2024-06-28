@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family-Chakra+Petch:w ght@400:700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family-Chakra+Petch:w ght@400:700&display=swap');
+
 :root {
     --cor-de-fundo: #25FCEF;
     --verde: #6FFF57;
@@ -6,4 +7,11 @@
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+
+body {
+    background-color: #25FCEF;
+    color: #FFFFFF;
+    font-family: 'Chakra Petch', sans-serif;
+
 }
